@@ -1,6 +1,6 @@
 ## Preview
 
-<img src="https://github.com/mchjohn/challenge-react-concepts/blob/main/img/todo-app.gif" data-canonical-src="https://github.com/mchjohn/challenge-react-concepts/blob/main/img/todo-app.gif" width="520" height="420" />
+<img src="https://github.com/mchjohn/challenge-react-concepts/blob/main/img/todo-app.gif" data-canonical-src="https://github.com/mchjohn/challenge-react-concepts/blob/main/img/todo-app.gif" width="968" height="520" />
 
 ## Sobre esse projeto
 
